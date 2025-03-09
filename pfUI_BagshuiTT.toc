@@ -1,0 +1,10 @@
+## Interface: 11200
+## Title: |cff33ffccpf|cffffffffUI|cffaaaaaa [Bagshui Tooltip]
+## Author: Peachoo @ Nordanaar - Turtle WoW
+## Notes: Makes pfUI's "Dodge" tooltip work with Bagshui.
+## Version: 1.0
+## Dependencies: pfUI, Bagshui
+## SavedVariables: pfUI_BagshuiTT_Config
+## LoadManually: 0
+
+pfUI_BagshuiTT.lua
