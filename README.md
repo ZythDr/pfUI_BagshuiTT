@@ -1,6 +1,6 @@
 # pfUI_BagshuiTT
 
-A Vanilla WoW 1.12.1 plugin for those using pfUI with Bagshui bags.
+A Vanilla WoW 1.12.1 pfUI plugin for those using pfUI with Bagshui bags.
 
 pfUI's "Dodge" tooltip anchoring option stops working as soon as pfUI's own bags aren't being used.
 This addon fixes that and makes pfUI's "Dodge" tooltip behavior work with Bagshui.
